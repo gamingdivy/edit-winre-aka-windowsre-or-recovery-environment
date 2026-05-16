@@ -1,1 +1,2 @@
 Hi, this script lets you edit your winre, you know the Preparing automatic repair? that's the thing, this tool lets you copy your tools or files to WinRE, say, winre changes are temporary but this allows you to make them permament, this script must be ran as administrator
+Note: This script is free, open-source and therefore doesn't have bloatware, it's Annoying-Free and also automatically unmounts the wim when your done, this script is also dependency-free, Enjoy!
